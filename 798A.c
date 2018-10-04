@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include<string.h>
+#include<string.h>//drgdrgreg
 int main()
 {
 	int a = 0,i,b;
